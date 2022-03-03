@@ -25,7 +25,7 @@ export const projects = [
         subtitle: "My Personal Web Portfolio",
         description: "I use this website to introduce myself to the public",
         image: "./portfolio.gif",
-        link: "https://github.com/shevaathalla/reactts-larastock",
+        link: "https://github.com/shevaathalla/shevaathalla.github.io",
     }
 ];
 
