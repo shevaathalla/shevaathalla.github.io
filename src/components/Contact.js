@@ -56,7 +56,7 @@ export default function Contact() {
               </h2>
               <a
                 href="mailto:shevaathalla@gmail.com"
-                className="text-indigo-400 leading-relaxed"
+                className="text-indigo-400 hover:text-indigo-600 leading-relaxed"
               >
                 shevaathalla@gmail.com
               </a>
