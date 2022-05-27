@@ -30,9 +30,10 @@ export const projects = [
 ];
 
 export const skills = [
+    "Java Programming Language",
     "Laravel",
     "Node JS",
-    "React JS",
-    "Wordpress",
+    "Nest JS",
+    "React JS",    
     "Automation Test using PEST PHP"
 ];
